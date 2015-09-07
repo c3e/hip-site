@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -66,18 +66,26 @@
        cx="424.26407"
        cy="457.38235"
        r="168.69548" />
-    <text
-       xml:space="preserve"
+    <g
+       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"
        style="font-style:normal;font-weight:normal;font-size:193.10316467px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-17.159805"
-       y="673.43347"
-       id="text4138"
-       sodipodi:linespacing="125%"
-       transform="matrix(0.8660254,-0.5,0.5,0.8660254,0,0)"><tspan
-         sodipodi:role="line"
-         id="tspan4140"
-         x="-17.159805"
-         y="673.43347"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Share Tech';-inkscape-font-specification:'Share Tech';fill:#ffffff;fill-opacity:1">HIP!</tspan></text>
+       id="text4138">
+      <path
+         d="m 72.633166,673.43347 -16.799975,0 0,-62.17922 -39.779252,0 0,62.17922 -16.7999753,0 0,-135.17221 16.7999753,0 0,58.70336 39.779252,0 0,-58.70336 16.799975,0 0,135.17221 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Share Tech';-inkscape-font-specification:'Share Tech';fill:#ffffff;fill-opacity:1"
+         id="path4360" />
+      <path
+         d="m 141.72186,673.43347 -43.834418,0 0,-14.09653 13.517218,0 0,-106.97915 -13.517218,0 0,-14.09653 43.834418,0 0,14.09653 -13.51722,0 0,106.97915 13.51722,0 0,14.09653 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Share Tech';-inkscape-font-specification:'Share Tech';fill:#ffffff;fill-opacity:1"
+         id="path4362" />
+      <path
+         d="m 234.48982,590.39911 q 0,30.5103 -32.82753,30.5103 l -18.1517,0 0,52.52406 -16.79998,0 0,-135.17221 34.56547,0 q 33.21374,0 33.21374,30.12409 l 0,22.01376 z m -16.79997,1.93103 0,-25.68272 q 0,-7.33792 -3.47586,-10.62067 -3.28275,-3.28276 -10.62067,-3.28276 l -20.08273,0 0,53.68268 20.08273,0 q 7.33792,0 10.62067,-3.28275 3.47586,-3.47586 3.47586,-10.81378 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Share Tech';-inkscape-font-specification:'Share Tech';fill:#ffffff;fill-opacity:1"
+         id="path4364" />
+      <path
+         d="m 278.75572,673.43347 -19.31032,0 0,-19.31031 19.31032,0 0,19.31031 z m -1.54483,-40.16546 -16.41377,0 0,-95.00675 16.41377,0 0,95.00675 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Share Tech';-inkscape-font-specification:'Share Tech';fill:#ffffff;fill-opacity:1"
+         id="path4366" />
+    </g>
   </g>
 </svg>
