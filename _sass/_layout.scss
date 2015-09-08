@@ -11,12 +11,19 @@ a {
   color: red;
 }
 
-.navbar-default .navbar-nav li a, .navbar-nav > li > a {
+h1 {
+  padding-left:160px;
+  padding-bottom:20px;
+  color: $link-primary;
+}
+
+a, .navbar-default .navbar-nav li a, .navbar-nav > li > a {
   color: red;
   text-shadow: none;
 
-  &:hover {
+  &:hover, &:visited {
     color: $link-hover;
+    text-decoration: none;
   }
 }
 
@@ -44,7 +51,6 @@ a {
 
 .navbar-default {
   background:none;
-  //background-color:transparent;
   box-shadow:none;
   border:0;
 }
