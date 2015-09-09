@@ -12,7 +12,7 @@ layout: default
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         <p class="date">
-            {{ post.date | date: "%b %-d, %Y" }} {{ post.post_author }}
+            {{ post.date | date: "%b %-d, %Y" }} {{if post.post_author}} - {{ post.post_author }}{{/if}}
         </p>
         {{ post.content }}
     </div>

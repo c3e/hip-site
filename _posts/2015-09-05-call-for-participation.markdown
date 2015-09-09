@@ -6,6 +6,6 @@ post_author: timm
 ---
 
 Falls ihr irgendwem irgendwas beibringen wollt, meldet euch!
-Trag euch (demnächst) ins Wiki ein, was auch immer.
+Trag euch ins [Wiki](https://wiki.hackimpott.de) ein, melder euch bei der [Orga](mailto:orga@chaospott.de), was auch immer.
 
 Wir brauchen eure Hilfe!
