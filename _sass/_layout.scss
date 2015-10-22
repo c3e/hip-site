@@ -53,6 +53,16 @@ a, .navbar-default .navbar-nav li a, .navbar-nav > li > a {
   background:none;
   box-shadow:none;
   border:0;
+
+  .in, .collapsing {
+    margin-top:-60px;
+    .navbar-nav {
+      background-color: $primary-bg;
+      li {
+        text-align:right;
+      }
+    }
+  }
 }
 
 .post, .box {
