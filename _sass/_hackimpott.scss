@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Share Tech';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Share Tech'), local('ShareTech-Regular'), url(/fonts/ShareTech-Regular.ttf);
+}
+
+#row-footer a{
+  color:$nav-link-color;
+
+  &:visited {
+    color:$nav-link-color;
+  }
+}
+
+#row-footer li {
+    list-style-type: none;
+    margin-bottom: 0;
+}
