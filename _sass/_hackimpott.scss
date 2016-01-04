@@ -5,15 +5,10 @@
   src: local('Share Tech'), local('ShareTech-Regular'), url(/fonts/ShareTech-Regular.ttf);
 }
 
-#row-footer a{
+#footer a{
   color:$nav-link-color;
 
   &:visited {
     color:$nav-link-color;
   }
-}
-
-#row-footer li {
-    list-style-type: none;
-    margin-bottom: 0;
 }
