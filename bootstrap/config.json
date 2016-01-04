@@ -387,8 +387,11 @@
     "forms.less",
     "responsive-utilities.less",
     "navs.less",
-    "navbar.less"
+    "navbar.less",
+    "component-animations.less"
   ],
-  "js": [],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=f8d5fd8296f89ec97a16"
+  "js": [
+    "collapse.js"
+  ],
+  "customizerUrl": "http://getbootstrap.com/customize/?id=3c7c656f52fd3ed09ab6"
 }
