@@ -5,7 +5,7 @@
   src: local('Share Tech'), local('ShareTech-Regular'), url(/fonts/ShareTech-Regular.ttf);
 }
 
-#footer a{
+#footer-nav-links a, #header-nav-links a {
   color:$nav-link-color;
 
   &:visited {
