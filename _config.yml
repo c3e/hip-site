@@ -2,8 +2,8 @@
 title: Hack Im Pott
 email: orga@hackimpott.de
 description: > # this means to ignore newlines until "baseurl:"
-  hack im pott, an workshop focused event, located in the ruhr area, germany.
-baseurl: "" 
+  hack im pott, a workshop focused event, located in the ruhr area, germany.
+baseurl: ""
 url: "http://hackimpott.de"
 twitter_username: hackimpott
 
