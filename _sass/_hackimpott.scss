@@ -11,4 +11,8 @@
   &:visited {
     color:$nav-link-color;
   }
+
+  &:hover {
+    color:$nav-link-hover;
+  }
 }
