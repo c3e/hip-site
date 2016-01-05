@@ -1,6 +1,7 @@
 body {
   background:#222 url('/img/logowall_opt.svg') center top;
   background-size: 300px;
+  color: white;
 }
 
 a {
@@ -62,7 +63,7 @@ a, .navbar-default .navbar-nav li a, .navbar-nav > li > a {
 }
 
 .post, .box {
-  background-color: #aaa;
+  background-color: #252525;
   padding: 40px 20px;
   margin-bottom: 30px;
   border-radius: 5px;
@@ -77,7 +78,7 @@ a, .navbar-default .navbar-nav li a, .navbar-nav > li > a {
 
   h2 {
     a {
-      color: black;
+      color: white;
 
       &:hover {
         text-decoration: none;
