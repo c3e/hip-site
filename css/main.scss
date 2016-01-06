@@ -26,7 +26,7 @@ $nav-link-color:   #FFF;
 $nav-link-hover:   #DDD;
 
 $primary-bg: #333;
-$link-primary: #FFF;
+$link-primary: #FF5E5E;
 $link-hover: #F44;
 
 // Using media queries with like this:
@@ -48,6 +48,5 @@ $link-hover: #F44;
 @import
         "base",
         "layout",
-        "syntax-highlighting",
-        "hackimpott"
+        "syntax-highlighting"
 ;

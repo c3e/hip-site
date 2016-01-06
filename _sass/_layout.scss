@@ -1,17 +1,20 @@
+@font-face {
+  font-family: 'Share Tech';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Share Tech'), local('ShareTech-Regular'), url(/fonts/ShareTech-Regular.woff2) format('woff2'), url(/fonts/ShareTech-Regular.ttf) format('truetype');
+}
+
 body {
   background:#222 url('/img/logowall_opt.svg') center top;
   background-size: 300px;
   color: white;
 }
 
-a {
-  color: red;
-}
-
 h1 {
   padding-left:160px;
   padding-bottom:20px;
-  color: $link-primary;
+  color: $nav-link-color;
 }
 
 a, .navbar-default .navbar-nav li a, .navbar-nav > li > a {
@@ -73,7 +76,11 @@ a, .navbar-default .navbar-nav li a, .navbar-nav > li > a {
   }
 
   a {
-    color: $link-hover;
+    color: $link-primary;
+
+    &:hover {
+        color: $link-hover;
+      }
   }
 
   h2 {
@@ -95,5 +102,17 @@ a, .navbar-default .navbar-nav li a, .navbar-nav > li > a {
   padding: 20px;
   ul {
     list-style-type: none;
+  }
+}
+
+#footer-nav-links a, #header-nav-links a {
+  color:$nav-link-color;
+
+  &:visited {
+    color:$nav-link-color;
+  }
+
+  &:hover {
+    color:$nav-link-hover;
   }
 }
