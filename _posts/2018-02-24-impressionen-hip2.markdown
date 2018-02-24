@@ -6,7 +6,10 @@ post_author: gammlaa
 ---
 
 Hip, Hip, Hurra!
-Die dritte Hack im Pott hat gestern begonnen und es gibt erste Impressionen für euch.
+Die dritte Hack im Pott hat gestern begonnen und wir freuen uns über euren Besuch. Heute starten die Workshops. Wir wünschen euch viel Spaß auf der HIP2.
 
 ![HIP2](/img/impressionen/hip2-01.jpg)
-*Foto: Chaospott* 
+
+![HIP2](/img/impressionen/hip2-02.jpg)
+
+![HIP2](/img/impressionen/hip2-03.jpg)
