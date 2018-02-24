@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "HIP 2018"
-date:   2018-01-11 13:37:00
+title:  "Impressionen HIP2"
+date:   2018-02-24 13:37:00
 post_author: gammlaa
 ---
 
