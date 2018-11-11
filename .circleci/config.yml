@@ -18,6 +18,6 @@ jobs:
     - run: docker login -u $DOCKER_USER -p $DOCKER_PASS
     - run: docker build -t hackimpott/site .
     - run: |
-        docker tag hackimpott/site chaospott/site:$CIRCLE_SHA1
+        docker tag hackimpott/site hackimpott/site:$CIRCLE_SHA1
         docker push hackimpott/site:$CIRCLE_SHA1
         docker push hackimpott/site:latest
