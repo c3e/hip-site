@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "HIP 3 - Call for Participation"
+date:   2018-12-22 16:34:24
+post_author: jaydee
+---
+
+Werte HIPster,
+
+nach 35c3 und Jahresumsprung folgt auch schon die nächste Hack im Pott!
+Wir möchten euch daher einladen, an unserem [Call for Participation](https://fahrplan.hackimpott.de/hip3/) teilzunehmen. Genauso ist unser [Wiki](https://wiki.hackimpott.de) nun auch online.
+
+Tickets für die HIP3 wird es Anfang Januar nach dem 35c3 geben, haltet
+dazu die Augen in der KW2 offen. Keine Sorge, die Tickets werden
+rechtzeitig angekündigt.
+
+Wir würden uns freuen, euch begrüßen zu dürfen!
