@@ -7,5 +7,5 @@ post_author: sirgoofy
 
 Wichtig: Übernachten im Falkenhaus ist leider nicht möglich!
 
-Bitte sucht euch eine Unterkunft. Da viele Besucher in der Gegend wohnen, wird sich bestimmt ein privater Übernachtungsplatz finden lassen. Hierzu haben wir eine [https://wiki.hackimpott.de/hip3:uebernachten](Bettenbörse im Wiki) eingerichtet. Dort finden sich auch Infos zu Hotels in der Nähe.
+Bitte sucht euch eine Unterkunft. Da viele Besucher in der Gegend wohnen, wird sich bestimmt ein privater Übernachtungsplatz finden lassen. Hierzu haben wir eine [Bettenbörse im Wiki](https://wiki.hackimpott.de/hip3:uebernachten) eingerichtet. Dort finden sich auch Infos zu Hotels in der Nähe.
 
