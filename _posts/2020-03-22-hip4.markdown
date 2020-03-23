@@ -1,0 +1,27 @@
+---
+layout: post
+title: "HIP4"
+date: 2020-03-22 13:37:42
+---
+Die fünfte „[Hack im Pott](https://hackimpott.de/)“ ist vorüber und wir möchten an dieser Stelle ein kurzes Resümee der dreitägigen Veranstaltung ziehen. Auch für diese HIP konnten wir das Falkenzentrum Süd in Essen-Holsterhausen nutzen. Insgesamt sind 100 Hacker und Haecksen der Einladung gefolgt, um sich drei Tage lang in Workshops und Vorträgen über verschiedene Themen auszutauschen. Auch dieses Jahr hat die große Anzahl der Workshops den Fokus auf den Austausch von Fertigkeiten gelegt. Nachdem im Vorfeld der HIP schon viele Stunden in die Vorbereitung geflossen waren, ging es Freitagmorgen zu den [Falken](http://falkenzentrum-sued.de/) nach Holsterhausen. Schon vor Beginn der HIP waren viele Helfende gekommen, um beim Aufbau zu helfen. So war die Arbeit schnell erledigt und die fünfte HIP konnte auf insgesamt drei Etagen beginnen.
+
+![Quelle: Chaospott]({{ site.url }}/media/2020-03-22/2020-03-22-hip4-01-hackcenter.jpg)
+*Hackcenter auf der HIP [Chaospott](https://chaospott.de) [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
+
+Traditionelle Kommunikation bot die Chaospost, prominent und bestens ausgestattet auf dem Weg in die raketenbeklebte Analoglösung der Informationsfrage. Ein Push-Medium, das wiederentdeckt wurde, dank seiner vielfältigen Grafiken und der Herausforderung an die Adressierung ohne [RFC](https://de.wikipedia.org/wiki/Request_for_Comments). Während Briefe nach [DIN 5008](https://de.wikipedia.org/wiki/DIN_5008) beschriftet werden, gilt für Postkarten eine Postnorm und für alle gemeinsam Französisch als Weltpostsprache.
+
+Ebenfalls attraktiv, die zahlreichen Vorträge und Workshops zwischen kopfförderlichen Puschelohren bis zu kopffordernden Themen mit hilfreichem Vorwissen über Booten und Kernelstarten. Anerkennung und Beifall den unermüdlichen Kämpfern für freie und befreite Hardware beim Start des Rechners. Und natürlich das im Halse stecken bleibende Gelächter über die plumpen Pannen bei der Sicherung kritischer Infrastruktur oder des Schutzes der Ewigkeitsdaten im Medizinbetrieb.
+
+![Quelle: Chaospott]({{ site.url }}/media/2020-03-22/2020-03-22-hip4-00-workshop.jpg)
+*Workshops auf der HIP [Chaospott](https://chaospott.de) [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)*
+
+Weil außerhalb des Chaos nicht immer Perfektion herrscht, konnte, zum großen Bedauern des Autors dieser Zeile, eine Attraktion fortschreitenden Alters aus einem angrenzenden Ausland leider seine beliebten Vorträge nicht halten. Eine Instruierung zur Genossenschaft „formerly known as“ HackerEG aus der großen Hauptstadt musste aus Gesundheitsgründen unbestimmt verschoben werden. Allerdings können Vorträge vergangener Veranstaltungen auf [media.ccc.de](https://media.ccc.de/search/?q=hacker+eg) nachgeschaut werden. Rege genutzt wurde stattdessen die Möglichkeit zur direkten Kommunikation über Sprache, man sah sich schon damals nicht jede Woche und dass es eine der letzten Gelegenheiten des Jahres ist, hatte kaum jemand auf dem Monitor.
+
+Das Weltniveau der HIP braucht sich nicht verstecken, trotz der familiären Größe der Räumlichkeit. Vielleicht ist das auch ein Grund, warum viele Besucher jedes Jahr wiederkommen. Aber das Verteilen von Vouchern an potentielle neue Besucher auf dem Congress hat Erfolg gezeigt: Einige Besucher waren zum ersten Mal auf der HIP. Für einzelne war es sogar die erste Chaos-Veranstaltung. Mit den Vouchern konnte man trotz der schnell ausverkauften Tickets immer noch sicher ein Ticket erwerben.
+
+Tradtitionell gibt es zur 'Hack im Pott' das namensgebende Futter: Hack, sowohl tierischer Abstammung als auch komplett vegan. Fleißige Hände hatten den Ofen schon laufen lassen, schmackhafte und überwiegend vegane Nahrung war dem geneigten Hacker bestens bereitet.
+Ergänzt wurde das Essensangebot um große Mengen Vla, Waffeln und Slush-Eis. Für das Servieren und das Streaming von Leckerschmeckern großen Dank an die Zauberer und Feen, Knechte und Gnomen in der genussverschaffenden Küche, der Freiluftsiederei auf der Außenfläche, dank durchgehend freundlichem Wetter, und der guten Vorbereitung durch die Küchencrew.
+
+Des Nachts, wenn der Photonenstrom sich dem Hacker lange angepasst hat, sorgt ein konstantes Angebot der Ruhrbahn für all zeitlichen Transport zum Hotel. Wobei Bus und Tram rein physisch kaum näher an der HIP liegen könnten. Das schafft nicht einmal ein Congress.
+
+Das Ding bekommt Geschichte: Nicht nur der Altersschnitt der Hacker verteilt sich auf der HIP angenehm weit, auch die Technik bekommt sichtbare Vorläufer und Entwicklungslinien. Die HIP nimmt damit einen Trend vorweg, der die als jung wahrgenommene IT und die sie bewegenden Jugendlichen einzuholen beginnt. Produktionsmaschinen und Infrastruktur frei von Sicherheitskultur mit alten „Betriebssystemen“ sind lebendig vorgestellte Archäologie in der Informatik. Junge Menschen lernen, Elektronik zu löten, neben Veteranen, die das schon 45 Jahre beherrschen.
